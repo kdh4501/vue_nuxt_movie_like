@@ -1,0 +1,26 @@
+{
+  "name": "movie-app-test",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/dotenv": "^1.4.2",
+    "axios": "^1.7.9",
+    "core-js": "^3.25.3",
+    "nuxt": "^2.15.8",
+    "pinia": "^2.3.1",
+    "vue": "^2.7.10",
+    "vue-server-renderer": "^2.7.10",
+    "vue-template-compiler": "^2.7.10"
+  },
+  "devDependencies": {
+    "@nuxt/types": "^2.18.1",
+    "@nuxt/typescript-build": "^2.1.0",
+    "typescript": "^5.7.3"
+  }
+}
